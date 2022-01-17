@@ -1,0 +1,7 @@
+
+# HTID:15755139: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "< welcome to the local system >"
+AuthUserFile "/storage/ssd2/059/15288059/public_html/password/.htpasswd"
+Require user admin
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:15755139:
